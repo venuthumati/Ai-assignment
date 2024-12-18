@@ -1,0 +1,6 @@
+Shape,base,height,side,radius,d1,d2,area
+Triangle,5,10,,,,,25
+Square,,,4,,,,16
+Circle,,,,7,,,153.94
+Rectangle,8,4,,,,,32
+Rhombus,,,,,6,8,24
